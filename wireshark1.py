@@ -1,6 +1,4 @@
 #!/usr/bin/python
-# 
-# This is the skeleton of the CS 352 Wireshark Assignment 1
 #
 # (c) 2018, R. P. Martin, GPL version 2
 
@@ -73,7 +71,6 @@ def main():
 			list_of_ip_tcp_ports[ip_tcp_port_combo] += 1
 		else:
 			list_of_ip_tcp_ports[ip_tcp_port_combo] = 1
-        # ... your code goes here ...
 
     print 'CS 352 Wireshark, part 1'
     print 'Total number of packets,',count
