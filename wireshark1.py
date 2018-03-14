@@ -1,7 +1,6 @@
 #!/usr/bin/python
 #
 # (c) 2018, R. P. Martin, GPL version 2
-
 # Given a pcap file as input, you should report:
 #
 #1) number of the packets (use number_of_packets), 
